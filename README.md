@@ -40,6 +40,10 @@ Your company files, backups and settings stay on your computer (or on a shared f
 uninstalling AiseWorks Desktop does not remove them. Back up your company (File > Backup) before installing a new
 version.
 
+## Support
+
+Help, questions and contact details: **[taxdeep.com/aiseworks](https://taxdeep.com/aiseworks/)**. In the app: Help > AiseWorks Support.
+
 ## Licence
 
 © Taxdeep Corp. All rights reserved. AiseWorks Desktop is licensed under the [End User Licence Agreement](EULA.txt).

@@ -31,7 +31,9 @@ consequential damages, or for loss of data or profits, arising from the use of t
 8. Termination. This licence ends if you do not comply with it. On termination, stop using the Software and delete
 it.
 
-9. Governing law. This agreement is governed by the laws of the Province of British Columbia and the federal laws of
+9. Support. Help and contact details are at https://taxdeep.com/aiseworks/.
+
+10. Governing law. This agreement is governed by the laws of the Province of British Columbia and the federal laws of
 Canada applicable there.
 
 © Taxdeep Corp. All rights reserved.
